@@ -13,6 +13,14 @@ This is where I upload casual, informal projects using various datasets availabl
 - Technologies Used:
   - Jupyter Notebook
   - Python: version 3.9.1
-    - Libraries
       - numpy
       - pandas
+
+[Visualizations of Earnings Based on College Majors](https://github.com/chan030609/informal-projects/blob/main/earnings-based-on-majors/earnings-based-on-majors.ipynb)
+- Date: Dec 29, 2020
+- Technologies Used:
+  - Jupyter Notebook
+  - Python: version 3.9.1
+    - numpy
+    - pandas
+    - matplotlib
