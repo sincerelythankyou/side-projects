@@ -1,5 +1,5 @@
 # informal-projects
-This is where I upload casual, informal projects using various datasets available online.
+This is where I upload casual, informal projects using various datasets and information available online.
 
 ## Index
 Click a link below to view a specific project.
