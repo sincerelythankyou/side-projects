@@ -3,6 +3,7 @@ This is where I upload casual, informal projects using various datasets availabl
 
 ## Index
 Click a link below to view a specific project.
+
 [Correlation between the Types of Posts and User Interest in Hacker News](https://github.com/chan030609/practice-projects/blob/main/hackernews-post-analysis/hacker-news-post-analysis.ipynb) 
 - Date: Dec 16, 2020
 - Technologies Used: 
