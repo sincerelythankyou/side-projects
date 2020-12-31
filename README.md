@@ -26,3 +26,12 @@ Click a link below to view a specific project.
     - numpy
     - pandas
     - matplotlib
+
+[Gradient Descent Algorithm with NumPy and Pandas](https://github.com/chan030609/informal-projects/blob/main/gradient-descent/gradient-descent.ipynb)
+- Date: Dec 30, 2020
+- Technologies Used:
+  - Jupyter Notebook
+  - Python: version 3.9.1
+    - numpy
+    - pandas
+    - matplotlib
