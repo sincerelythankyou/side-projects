@@ -27,11 +27,9 @@ Click a link below to view a specific project.
     - pandas
     - matplotlib
 
-[Gradient Descent Algorithm with NumPy and Pandas](https://github.com/chan030609/informal-projects/blob/main/gradient-descent/gradient-descent.ipynb)
-- Date: Dec 30, 2020
+[Training Neural Networks with MNIST Dataset](https://github.com/chan030609/informal-projects/blob/main/mnist-neural-networks/mnist-neural-networks.ipynb)
+- Date: Jan 1, 2021
 - Technologies Used:
   - Jupyter Notebook
   - Python: version 3.9.1
-    - numpy
-    - pandas
-    - matplotlib
+    - pytorch
