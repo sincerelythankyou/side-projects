@@ -2,8 +2,8 @@
 This is where I upload casual, informal projects using various datasets and information available online.
 
 Projects are sorted in the descending order of dates.
-- [Data Analysis](###data-analysis)
-- [Machine Learning](###machine-learning)
+- [Data Analysis](#data-analysis) - data cleaning, visualization, inspection, etc.
+- [Machine Learning](#machine-learning) - artificiall intelligence, machine learning, deep learning, etc.
 
 &nbsp;
 ### Data Analysis
@@ -24,6 +24,12 @@ Projects are sorted in the descending order of dates.
 
 &nbsp;
 ### Machine Learning
+
+[Classification of Cats and Dogs](https://github.com/chan030609/informal-projects/blob/main/classification-of-cats-and-dogs/classification-of-cats-and-dogs.ipynb)
+- Jan 2, 2021
+  - Jupyter Notebook (Python 3.9.1)
+    - pytorch
+  - [Kaggle Dataset](https://www.kaggle.com/tongpython/cat-and-dog/tasks)
 
 [MNIST Fashio Dataset with Validation and Inference](https://github.com/chan030609/informal-projects/blob/main/mnist-fashion-validation/mnist-fashion-validation.ipynb)
 - Jan 1, 2021
