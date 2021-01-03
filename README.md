@@ -25,7 +25,7 @@ Projects are sorted in the descending order of dates.
 &nbsp;
 ### Machine Learning
 
-[Classification of Cats and Dogs](https://github.com/chan030609/informal-projects/blob/main/classification-of-cats-and-dogs/classification-of-cats-and-dogs.ipynb)
+[Classification of Cats and Dogs](https://github.com/chan030609/informal-projects/blob/main/classification-of-cats-and-dogs/classification_of_cats_and_dogs.ipynb)
 - Jan 2, 2021
   - Jupyter Notebook (Python 3.9.1)
     - pytorch
