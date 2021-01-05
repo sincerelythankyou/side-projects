@@ -37,7 +37,7 @@ Projects are sorted in the descending order of dates.
     - pytorch
   - [Kaggle Dataset](https://www.kaggle.com/tongpython/cat-and-dog/tasks)
 
-[MNIST Fashio Dataset Neural Network](https://github.com/chan030609/informal-projects/blob/main/mnist-fashion-validation/mnist-fashion-validation.ipynb)
+[MNIST FashionDataset Neural Network](https://github.com/chan030609/informal-projects/blob/main/mnist-fashion-validation/mnist-fashion-validation.ipynb)
 - Jan 1, 2021
   - Jupyter Notebook (Python 3.9.1)
     - pytorch
