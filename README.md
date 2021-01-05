@@ -25,13 +25,19 @@ Projects are sorted in the descending order of dates.
 &nbsp;
 ### Machine Learning
 
+[Pneumonia Detection Using ResNet](https://github.com/chan030609/resnet-pneumonia-detection/blob/main/README.md)
+- Jan 4, 2021
+  - Google Colab Jupyter Notebook
+    - pytorch
+  - [Kaggle Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+
 [Classification of Cats and Dogs](https://github.com/chan030609/informal-projects/blob/main/classification-of-cats-and-dogs/classification_of_cats_and_dogs.ipynb)
 - Jan 2, 2021
   - Jupyter Notebook (Python 3.9.1)
     - pytorch
   - [Kaggle Dataset](https://www.kaggle.com/tongpython/cat-and-dog/tasks)
 
-[MNIST Fashio Dataset with Validation and Inference](https://github.com/chan030609/informal-projects/blob/main/mnist-fashion-validation/mnist-fashion-validation.ipynb)
+[MNIST Fashio Dataset Neural Network](https://github.com/chan030609/informal-projects/blob/main/mnist-fashion-validation/mnist-fashion-validation.ipynb)
 - Jan 1, 2021
   - Jupyter Notebook (Python 3.9.1)
     - pytorch
