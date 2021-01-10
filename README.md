@@ -25,6 +25,12 @@ Projects are sorted in the descending order of dates.
 &nbsp;
 ### Machine Learning
 
+[Stock Prediction Using LSTM](https://github.com/chan030609/informal-projects/blob/main/goog-stock-prediction/goog-stock=prediction.ipynb)
+- Jan 9, 2021
+  - Google Colab Jupyter Notebook
+    - pytorch
+  - [Kaggle Dataset](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
+
 [Pneumonia Detection Using ResNet](https://github.com/chan030609/resnet-pneumonia-detection/blob/main/README.md)
 - Jan 4, 2021
   - Google Colab Jupyter Notebook
