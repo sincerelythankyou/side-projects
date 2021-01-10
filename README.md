@@ -25,7 +25,7 @@ Projects are sorted in the descending order of dates.
 &nbsp;
 ### Machine Learning
 
-[Stock Prediction Using LSTM](https://github.com/chan030609/informal-projects/blob/main/goog-stock-prediction/goog-stock=prediction.ipynb)
+[Stock Prediction Using LSTM](https://github.com/chan030609/informal-projects/blob/main/goog-stock-prediction/goog-stock-prediction.ipynb)
 - Jan 9, 2021
   - Google Colab Jupyter Notebook
     - pytorch
