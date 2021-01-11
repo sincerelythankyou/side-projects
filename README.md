@@ -1,4 +1,4 @@
-# Informal Projects
+# Side Projects
 This is where I upload casual, informal projects using various datasets and information available online.
 
 Projects are sorted in the descending order of dates.
