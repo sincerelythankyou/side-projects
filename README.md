@@ -4,7 +4,7 @@
 
 This is where I upload casual, informal projects using various information, libraries, and datasets available online.
 
-Projects are sorted in the **descending order of dates**.
+Projects are sorted in the __descending order of dates__.
 - [Data Analysis](#data-analysis) - data cleaning, visualization, inspection, etc.
 - [Machine Learning](#machine-learning) - artificiall intelligence, machine learning, deep learning, etc.
 
