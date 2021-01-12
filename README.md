@@ -1,4 +1,7 @@
 # Side Projects
+
+<img src = 'hhttps://media.vanityfair.com/photos/5eb06b3ec135d48f5b12097d/master/pass/baby-yoda-craze.jpg' width="400">
+
 This is where I upload casual, informal projects using various datasets and information available online.
 
 Projects are sorted in the descending order of dates.
