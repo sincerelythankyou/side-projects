@@ -4,7 +4,7 @@
 
 Casual, informal projects using various information, libraries, and datasets available online
 
-Projects are sorted in the _descending order of dates_.
+The projects are sorted in the _descending order of dates_!
 - [Data Analysis](#data-analysis) - data cleaning, visualization, inspection, etc.
 - [Machine Learning](#machine-learning) - artificiall intelligence, machine learning, deep learning, etc.
 
