@@ -1,6 +1,6 @@
 # Side Projects
 
-<img src = 'hhttps://media.vanityfair.com/photos/5eb06b3ec135d48f5b12097d/master/pass/baby-yoda-craze.jpg' width="400">
+<img src = https://media.gq.com/photos/5ddd59ff5bb28e00087a9df6/16:9/w_2560%2Cc_limit/baby-yoda-explainer-gq-november-2019-112619.jpg width="400">
 
 This is where I upload casual, informal projects using various datasets and information available online.
 
