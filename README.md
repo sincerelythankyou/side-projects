@@ -2,9 +2,9 @@
 
 <img src = 'https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B1240%2C299%5D&w=2000&h=1047&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2020%2F09%2F15%2FThe-Mandalorian5.jpg' width="400">
 
-This is where I upload casual, informal projects using various datasets and information available online.
+This is where I upload casual, informal projects using various information, libraries, and datasets available online.
 
-Projects are sorted in the descending order of dates.
+Projects are sorted in the **descending order of dates**.
 - [Data Analysis](#data-analysis) - data cleaning, visualization, inspection, etc.
 - [Machine Learning](#machine-learning) - artificiall intelligence, machine learning, deep learning, etc.
 
