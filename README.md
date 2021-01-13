@@ -25,7 +25,7 @@ The projects are sorted in the _descending order of dates_.
 
 [MNIST Fashion Dataset Neural Network](https://github.com/chan030609/informal-projects/blob/main/mnist-fashion-validation/mnist-fashion-validation.ipynb)
 - Jan 1, 2021
-  - First machine learning in my life!
+  - First machine learning in my life 🥳
 
 &nbsp;
 ### Data Analysis
