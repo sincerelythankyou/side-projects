@@ -4,24 +4,10 @@
 
 This is where I upload casual, informal projects using various information, libraries, and datasets available online.
 
-The projects are sorted in the _descending order of dates_!
+The projects are sorted in the _descending order of dates_.
+- [Machine Learning](#machine-learning) - artificiall intelligence, machine learning, deep learning, etc.
 - [Data Analysis](#data-analysis) - data cleaning, visualization, inspection, etc.
 - [Machine Learning](#machine-learning) - artificiall intelligence, machine learning, deep learning, etc.
-
-&nbsp;
-### Data Analysis
-
-[Visualizations of Earnings Based on College Majors](https://github.com/chan030609/informal-projects/blob/main/earnings-based-on-majors/earnings-based-on-majors.ipynb)
-- Dec 29, 2020
-  - Visualizes and analyzes people's earnings based on their past college majors
-
-[Analyzing Used Car Listings on eBay Kleinanzeigen](https://github.com/chan030609/practice-projects/blob/main/ebay-car-sales-analysis/ebay-car-sales-analysis.ipynb)
-- Dec 26, 2020
-  - Analyzes used cars available on eBay Kleinanzeigen
-
-[Correlation between the Types of Posts and User Interest in Hacker News](https://github.com/chan030609/practice-projects/blob/main/hackernews-post-analysis/hacker-news-post-analysis.ipynb) 
-- Dec 16, 2020
-  - Discusses relation between the types of posts and number of upvotes in Hacker News
 
 &nbsp;
 ### Machine Learning
@@ -41,3 +27,18 @@ The projects are sorted in the _descending order of dates_!
 [MNIST Fashion Dataset Neural Network](https://github.com/chan030609/informal-projects/blob/main/mnist-fashion-validation/mnist-fashion-validation.ipynb)
 - Jan 1, 2021
   - First neural network in my life!
+
+&nbsp;
+### Data Analysis
+
+[Visualizations of Earnings Based on College Majors](https://github.com/chan030609/informal-projects/blob/main/earnings-based-on-majors/earnings-based-on-majors.ipynb)
+- Dec 29, 2020
+  - Visualizes and analyzes people's earnings based on their past college majors
+
+[Analyzing Used Car Listings on eBay Kleinanzeigen](https://github.com/chan030609/practice-projects/blob/main/ebay-car-sales-analysis/ebay-car-sales-analysis.ipynb)
+- Dec 26, 2020
+  - Analyzes used cars available on eBay Kleinanzeigen
+
+[Correlation between the Types of Posts and User Interest in Hacker News](https://github.com/chan030609/practice-projects/blob/main/hackernews-post-analysis/hacker-news-post-analysis.ipynb) 
+- Dec 16, 2020
+  - Discusses relation between the types of posts and number of upvotes in Hacker News
