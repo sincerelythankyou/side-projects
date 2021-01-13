@@ -7,7 +7,6 @@ This is where I upload casual, informal projects using various information, libr
 The projects are sorted in the _descending order of dates_.
 - [Machine Learning](#machine-learning) - artificiall intelligence, machine learning, deep learning, etc.
 - [Data Analysis](#data-analysis) - data cleaning, visualization, inspection, etc.
-- [Machine Learning](#machine-learning) - artificiall intelligence, machine learning, deep learning, etc.
 
 &nbsp;
 ### Machine Learning
